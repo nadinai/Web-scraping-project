@@ -1,0 +1,16 @@
+.dygraph-title {
+  color: grey;
+  font-size: 30px;
+  text-align: left;
+  font-family: Arial, sans-serif;
+  font-weight: lighter;
+}
+.dygraph-axis-label {
+  font-size: 12px;
+  font-family: Arial, sans-serif;
+}
+.dygraph-label {
+  color: grey;
+  font-weight: lighter ;
+  font-family: Arial, sans-serif;
+}
